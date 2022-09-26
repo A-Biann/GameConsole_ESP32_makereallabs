@@ -21,3 +21,7 @@ This version is a more friendly one. The speed of computer in single mode has be
 
 ### ping-pong_neverwin.ino
 The score to win of this version is 11 and the speed of computer is too fast to win for players 
+
+## Demonstration
+1. single mode [Link 1](https://drive.google.com/file/d/1lFzODw3j6qElArh4U-A3piMTvV8ci79l/view)
+2. multiple mode [Link 2](https://drive.google.com/file/d/1ejbJKLoLNj3xIjjLaARJcZ-OTmGJTVhx/view)
