@@ -2,7 +2,7 @@
 GameConsole_ESP32
 </h1>
 
-![image](https://user-images.githubusercontent.com/97749993/194768509-24e792c7-6dbf-4671-8d60-5de08e34c047.png)
+![Animation](https://user-images.githubusercontent.com/97749993/194768817-cc85ede4-0bde-4d06-93ce-c87afb38a5c3.gif)
 
 ## Introduction
 This project is one of the work in Makereal Labs, NYCU. The first game console is equipped with Arduino Nano. Although there are many libraries can be used in Arduino, the memory and speed for Nano is too small for games computing a lot. This version of game console uses ESP32; thus has much more functions and memory. The ping-pong game inside can be played by two people or played with computer.
